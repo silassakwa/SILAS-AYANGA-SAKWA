@@ -1,5 +1,5 @@
 # SILAS SAKWA-portfolio
-#{Timothy Kiogora}
+#{SILAS SAKWA}
 #### {A website that contains information about SILAS SAKWA}, {12.07.2020}
 #### By *{SILAS SAKWA}*
 ## Description
