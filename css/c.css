@@ -26,6 +26,23 @@ color:#ffffff;
 h2{
     color:#ffffff;
 }
+categories
+{
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-decoration: none;
+}
+
+.CATEGORIES a
+{
+    color:red;
+
+}
+.CATEGORIES  li
+{
+display: inline-block;
+}
 .footer
 {
     color:#ffffff;
