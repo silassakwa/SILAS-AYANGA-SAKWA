@@ -6,7 +6,7 @@
 {This is a site that gives a little information about me, my background and my skills.}
 Project setup instructions
 To start using this project use the following commands:
-`git clone 'https://github.com/silassakwa/silas-ayanga-sakwa.git
+`git clone 'https://silassakwa.github.io/silas-ayanga-sakwa/'
 cd my-portfolio
 visual studio code;.
 License info
